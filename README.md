@@ -1,5 +1,3 @@
-# VProfile Webapp 
-# test 
 
 **VProfile** is a Java-based web application built as a WAR package and designed for deployment on a servlet container such as Apache Tomcat. It uses Spring MVC, Spring Security, Spring Data JPA, Hibernate, RabbitMQ, Elasticsearch, and MySQL.
 
